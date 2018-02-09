@@ -17,5 +17,5 @@ Exception in thread "main" java.util.ServiceConfigurationError: ch.qos.logback.c
 	at org.slf4j/org.slf4j.LoggerFactory.getILoggerFactory(LoggerFactory.java:405)
 	at org.slf4j/org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:354)
 	at org.slf4j/org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:380)
-	at com.io7m.jartifact/com.io7m.jartifact.cmdline.Main.<clinit>(Main.java:14)
+	at com.io7m.bugs.logback/com.io7m.bugs.logback.Main.<clinit>(Main.java:8)
 ```
